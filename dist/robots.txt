@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://texnova-landing-v3.vercel.app/sitemap.xml
